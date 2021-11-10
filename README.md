@@ -1,2 +1,2 @@
 # MM1k_E_2C_3nodes
-This is the 8th queueing model we build.
+This is the 8th queueing model we build. now we have 3 nodes
